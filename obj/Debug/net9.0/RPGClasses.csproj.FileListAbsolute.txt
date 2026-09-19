@@ -1,0 +1,13 @@
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.csproj.AssemblyReference.cache
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.AssemblyInfoInputs.cache
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.AssemblyInfo.cs
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.csproj.CoreCompileInputs.cache
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.sourcelink.json
+/workspaces/RPGClasses/bin/Debug/net9.0/RPGClasses.deps.json
+/workspaces/RPGClasses/bin/Debug/net9.0/RPGClasses.dll
+/workspaces/RPGClasses/bin/Debug/net9.0/RPGClasses.pdb
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.dll
+/workspaces/RPGClasses/obj/Debug/net9.0/refint/RPGClasses.dll
+/workspaces/RPGClasses/obj/Debug/net9.0/RPGClasses.pdb
+/workspaces/RPGClasses/obj/Debug/net9.0/ref/RPGClasses.dll
